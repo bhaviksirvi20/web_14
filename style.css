@@ -16,7 +16,7 @@
     height: 150vh;
     width: 100%;
     /* background-color: aqua; */
-    background-image: url(./c837a6_b1a74c6a304a422c95891400453be898~mv2.jpg);
+    background-image: url(./assets/c837a6_b1a74c6a304a422c95891400453be898~mv2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,7 +54,7 @@
     /* background-color: rgb(82, 82, 201); */
     padding-inline: 100px;
     padding-block: 30px;
-    background-image: url(./Screenshot\ \(1573\)\ \(1\).png);
+    background-image: url(./assets/Screenshot\ \(1573\)\ \(1\).png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@
 .s3k {
     height: 40vh;
     width: 100%;
-    background-image: url(./i1.jpg);
+    background-image: url(./assets/i1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -287,7 +287,7 @@
     height: 120vh;
     width: 100%;
     /* background-color: rgb(215, 215, 255); */
-    background-image: url(./i1.jpeg);
+    background-image: url(./assets/i1.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -397,7 +397,7 @@
 .s4tk1a {
     height: 35vh;
     width: 100%;
-    background-image: url(./s1.jpeg);
+    background-image: url(./assets/s1.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -413,7 +413,7 @@
 .s4tk2a {
     height: 35vh;
     width: 100%;
-    background-image: url(./s2.jpg);
+    background-image: url(./assets/s2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -429,7 +429,7 @@
 .s4tk3a {
     height: 35vh;
     width: 100%;
-    background-image: url(./s3.jpg);
+    background-image: url(./assets/s3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -445,7 +445,7 @@
 .s4tk4a {
     height: 35vh;
     width: 100%;
-    background-image: url(./s4.jpeg);
+    background-image: url(./assets/s4.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -526,7 +526,7 @@
 .sec5 {
     height: 120vh;
     width: 100%;
-    background-image: url(./sec5.jpg);
+    background-image: url(./assets/sec5.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -620,7 +620,7 @@
     height: 70vh;
     width: 100%;
     background-color: rgb(0, 0, 70);
-    background-image: url(./s26.jpg);
+    background-image: url(./assets/s26.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -649,7 +649,7 @@
     height: 65vh;
     width: 100%;
     /* background-color: red; */
-    background-image: url(./priscilla-du-preez-AnjWrxK3WQU-unsplash.jpg);
+    background-image: url(./assets/priscilla-du-preez-AnjWrxK3WQU-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -743,7 +743,7 @@
     /* background-color: rgb(82, 82, 201); */
     padding-inline: 100px;
     padding-block: 30px;
-    background-image: url(./Screenshot\ \(1573\)\ \(1\).png);
+    background-image: url(./assets/Screenshot\ \(1573\)\ \(1\).png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
